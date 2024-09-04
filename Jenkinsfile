@@ -1,5 +1,6 @@
 @Library('roboshop-jenkins-library') _
 
 env.appName = "roboshop-shipping"
+env.appType = "java"
 cipipeline()
 
